@@ -1,0 +1,92 @@
+[
+  {
+    "questionText": "What is the capital of France?",
+    "answerOptions": [
+      { "answerText": "New York", "isCorrect": false },
+      { "answerText": "London", "isCorrect": false },
+      { "answerText": "Paris", "isCorrect": true },
+      { "answerText": "Dublin", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who wrote the novel '1984'?",
+    "answerOptions": [
+      { "answerText": "George Orwell", "isCorrect": true },
+      { "answerText": "Aldous Huxley", "isCorrect": false },
+      { "answerText": "Ernest Hemingway", "isCorrect": false },
+      { "answerText": "Mark Twain", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "What is the square root of 144?",
+    "answerOptions": [
+      { "answerText": "10", "isCorrect": false },
+      { "answerText": "12", "isCorrect": true },
+      { "answerText": "14", "isCorrect": false },
+      { "answerText": "16", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who painted the Mona Lisa?",
+    "answerOptions": [
+      { "answerText": "Vincent van Gogh", "isCorrect": false },
+      { "answerText": "Pablo Picasso", "isCorrect": false },
+      { "answerText": "Leonardo da Vinci", "isCorrect": true },
+      { "answerText": "Claude Monet", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "What is the chemical symbol for gold?",
+    "answerOptions": [
+      { "answerText": "Gd", "isCorrect": false },
+      { "answerText": "Go", "isCorrect": false },
+      { "answerText": "Au", "isCorrect": true },
+      { "answerText": "Ag", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Which planet is known as the Red Planet?",
+    "answerOptions": [
+      { "answerText": "Venus", "isCorrect": false },
+      { "answerText": "Mars", "isCorrect": true },
+      { "answerText": "Jupiter", "isCorrect": false },
+      { "answerText": "Saturn", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "What is the largest ocean on Earth?",
+    "answerOptions": [
+      { "answerText": "Atlantic Ocean", "isCorrect": false },
+      { "answerText": "Indian Ocean", "isCorrect": false },
+      { "answerText": "Arctic Ocean", "isCorrect": false },
+      { "answerText": "Pacific Ocean", "isCorrect": true }
+    ]
+  },
+  {
+    "questionText": "Who discovered penicillin?",
+    "answerOptions": [
+      { "answerText": "Marie Curie", "isCorrect": false },
+      { "answerText": "Alexander Fleming", "isCorrect": true },
+      { "answerText": "Isaac Newton", "isCorrect": false },
+      { "answerText": "Albert Einstein", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "What is the capital of Australia?",
+    "answerOptions": [
+      { "answerText": "Sydney", "isCorrect": false },
+      { "answerText": "Melbourne", "isCorrect": false },
+      { "answerText": "Perth", "isCorrect": false },
+      { "answerText": "Canberra", "isCorrect": true }
+    ]
+  },
+  {
+    "questionText": "Who is the author of 'Harry Potter' series?",
+    "answerOptions": [
+      { "answerText": "J.K. Rowling", "isCorrect": true },
+      { "answerText": "Stephen King", "isCorrect": false },
+      { "answerText": "Agatha Christie", "isCorrect": false },
+      { "answerText": "J.R.R. Tolkien", "isCorrect": false }
+    ]
+  }
+]
